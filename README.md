@@ -1,2 +1,1 @@
-# MPI Parallel Processing
- Counting Primes Parallel Processing
+# Counting Primes MPI Parallel Processing
